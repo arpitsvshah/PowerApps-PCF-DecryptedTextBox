@@ -2,6 +2,11 @@
 
 A PowerApps Component Framework (PCF) control for securely displaying decrypted text using React, Fluent UI, and CryptoJS.
 
+![alt text](https://arpitshah.me/wp-content/uploads/2025/09/ReactFluent-EncryptDecrypt.png)
+
+Encrpted TextBox - [text](https://github.com/arpitsvshah/PowerApps-PCF-EncryptedTextBox)
+Decrypted Textbox - [text](https://github.com/arpitsvshah/PowerApps-PCF-DecryptedTextBox)
+
 ## Overview
 
 This PCF control allows you to display a decrypted value from an encrypted string using a secret key, IV, and salt. It is built with React, styled using Fluent UI v9, and uses CryptoJS for AES decryption.
