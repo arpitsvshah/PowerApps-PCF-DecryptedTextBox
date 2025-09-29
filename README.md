@@ -4,8 +4,8 @@ A PowerApps Component Framework (PCF) control for securely displaying decrypted 
 
 ![alt text](https://arpitshah.me/wp-content/uploads/2025/09/ReactFluent-EncryptDecrypt.png)
 
-Encrpted TextBox - [text](https://github.com/arpitsvshah/PowerApps-PCF-EncryptedTextBox)
-Decrypted Textbox - [text](https://github.com/arpitsvshah/PowerApps-PCF-DecryptedTextBox)
+Encrypted TextBox - [GitHub link](https://github.com/arpitsvshah/PowerApps-PCF-EncryptedTextBox)
+Decrypted Textbox - [GitHub link](https://github.com/arpitsvshah/PowerApps-PCF-DecryptedTextBox)
 
 ## Overview
 
